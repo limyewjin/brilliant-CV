@@ -1,7 +1,7 @@
 #let hBar() = [#h(5pt) | #h(5pt)]
 
 #let latinFontList = (
-  "Source Sans Pro",
+///  "Source Sans Pro",
   "Source Sans 3",
   "Linux Libertine",
   "Font Awesome 6 Brands",

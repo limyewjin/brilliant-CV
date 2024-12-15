@@ -226,7 +226,7 @@
 /// -> content
 #let cvSection(
   title,
-  highlighted: true,
+  highlighted: false,
   letters: 3,
   metadata: metadata,
   awesomeColors: awesomeColors,
